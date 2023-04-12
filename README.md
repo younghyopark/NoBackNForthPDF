@@ -11,6 +11,7 @@ I hope this PDF viewer will make your research experience more efficient and enj
 
 Nothing's been implemented yet. 
 
+- [x] Render the PDF somehow
 - [ ] Make it scrollable through pages
 - [ ] Make the GUI user-friendly
 - [ ] Draw a box around active hyperlinks 
